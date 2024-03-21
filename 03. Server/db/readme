@@ -1,0 +1,2 @@
+Make sure in your item table the window field('enum') is correct compared to the source files!
+In sql the first value of an enum is 1, so don't confuse yourself in advance. In source this why there are some none, reserved, empty names as types, to make them start from 1.

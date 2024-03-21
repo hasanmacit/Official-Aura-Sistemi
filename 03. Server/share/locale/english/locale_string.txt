@@ -1,0 +1,158 @@
+"<아우라> 아우라 리파인 창은 동시에 하나만 열 수 있습니다.";
+"<Aura> Only one aura refine window can be opened at the same time.";
+
+"<아우라> 아우라 창을 열 수 없습니다.";
+"<Aura> You are too far to open the aura window.";
+
+"<아우라> 먼저 특정 오라 정제 창을 열어야합니다.";
+"<Aura> You need to open the specific aura refine window at first.";
+
+"<아우라> 프로세스를 계속하려면 모든 창을 닫으십시오.";
+"<Aura> Close every window to continue the process.";
+
+"<아우라> 아우라 정제 프로세스에 오류가 발생하여 계속할 수 없습니다.";
+"<Aura> The aura refine process has encountered an error and cannot be continued.";
+
+"<아우라> 이 항목을 흡수 할 수 없습니다.";
+"<Aura> You cannot absorb this item.";
+
+"<아우라> 흡수를 위해 장착 된 아이템을 부착 할 수 없습니다.";
+"<Aura> You cannot attach equipped items for absorption.";
+
+"<아우라> 정의되지 않은 오류가 발생했습니다.";
+"<Aura> An undefined error has occurred.";
+
+"<아우라> 이 아이템은 흡수를 위해 부착 할 수 없습니다.";
+"<Aura> You cannot attach this item for absorption.";
+
+"<아우라> 이 아이템은 사용되며 흡수를 위해 부착 할 수 없습니다.";
+"<Aura> This item is used, cannot be attached for absorption.";
+
+"<아우라> 이 아이템은 영혼에 묶여 있으며 흡수를 위해 부착 할 수 없습니다.";
+"<Aura> This item is bound to your soul, cannot be attached for absorption.";
+
+"<아우라> 이 슬롯에서는 오라 의상 만 부착 할 수 있습니다.";
+"<Aura> At this slot you can attach aura costumes only.";
+
+"<아우라> 이 아우라 의상은 이미 흡수 값이 있습니다.";
+"<Aura> This aura costume has absorption values already.";
+
+"<아우라> 이 슬롯에서는 방패, 팔찌, 목걸이 및 귀걸이 만 부착 할 수 있습니다.";
+"<Aura> At this slot you can attach shields, bracelets, necklaces and earrings only.";
+
+"<아우라> 이 오라를 업그레이드 할 수 없습니다.";
+"<Aura> You cannot upgrade this aura.";
+
+"<아우라> 업그레이드를 위해이 항목을 첨부 할 수 없습니다.";
+"<Aura> You cannot attach this item for upgrading.";
+
+"<아우라> 업그레이드를 위해 장착 된 아이템을 부착 할 수 없습니다.";
+"<Aura> You cannot attach equipped items for upgrading.";
+
+"<아우라> 이 아이템은 사용 중이며 업그레이드를 위해 부착 할 수 없습니다.";
+"<Aura> This item is used, cannot be attached for upgrading.";
+
+"<아우라> 이 아이템은 영혼에 묶여 있으며 업그레이드를 위해 부착 할 수 없습니다.";
+"<Aura> This item is bound to your soul, cannot be attached for upgrading.";
+
+"<아우라> 이 아우라 의상은 업그레이드 할 수 없습니다.";
+"<Aura> You cannot upgrade this aura costume.";
+
+"<아우라> 이 아우라 의상은 최대 레벨과 등급에 도달했습니다.";
+"<Aura> This aura costume has reached its maximum level and grade.";
+
+"<아우라> 추가 단계는 구체화 창을 사용하십시오.";
+"<Aura> Use the refine window for further steps.";
+
+"<아우라> 먼저 아우라 의상을 부착해야합니다.";
+"<Aura> First you need to attach an aura costume.";
+
+"<아우라> 이 슬롯에서는 오라 재료 만 부착 할 수 있습니다.";
+"<Aura> At this slot you can attach aura materials only.";
+
+"<아우라> 이 기운을 다듬을 수 없습니다.";
+"<Aura> You cannot refine this aura.";
+
+"<아우라> 진화를 위해 장착 된 아이템을 부착 할 수 없습니다.";
+"<Aura> You cannot attach equipped items for evolving.";
+
+"<아우라> 이 아이템은 사용되며 진화를 위해 부착 할 수 없습니다.";
+"<Aura> This item is used, cannot be attached for evolving.";
+
+"<아우라> 이 아이템은 당신의 영혼에 묶여 있으며 진화를 위해 붙일 수 없습니다.";
+"<Aura> This item is bound to your soul, cannot be attached for evolving.";
+
+"<아우라> 이 아우라 의상은 아직 개선 할 수 없습니다.";
+"<Aura> You cannot refine this aura costume yet.";
+
+"<아우라> %d 경험치로 %d 레벨에 있어야합니다.";
+"<Aura> It needs to be on level %d with %d experience point.";
+
+"<아우라> 이 슬롯에서는 특정 정제 재료 만 부착 할 수 있습니다.";
+"<Aura> At this slot you can attach a specific refine material only.";
+
+"<아우라> 즉, %s - %u
+"<Aura> Which is: %s - %u
+
+"<아우라> 아우라 창이 열려 있지 않은 상태에서는이 작업을 수행 할 수 없습니다.";
+"<Aura> You cannot do this while there is no aura window opened.";
+
+"<아우라> 다른 아우라 창이 열려있는 동안에는이 작업을 수행 할 수 없습니다.";
+"<Aura> You cannot do this while there is another aura window is opened.";
+
+"<아우라> 창에 항목을 첨부하십시오.";
+"<Aura> Attach the items in the window.";
+
+"<아우라> 장착 된 아이템은 사용할 수 없습니다.";
+"<Aura> You cannot use equipped items.";
+
+"<아우라> 영혼에 묶인 아이템은 사용할 수 없습니다.";
+"<Aura> You cannot use items which are bound to you soul.";
+
+"<아우라> 흡수가 완료되었습니다.";
+"<Aura> Absorption has been completed.";
+
+"<아우라> 이 아우라 의상은 업그레이드 할 수 없습니다.";
+"<Aura> You cannot upgrade this aura costume.";
+
+"<아우라> 이 아우라 의상은 최대 레벨과 등급에 도달했습니다.";
+"<Aura> This aura costume reached its maximum level and grade.";
+
+"<아우라> 업그레이드가 완료되었습니다.";
+"<Aura> Upgrading has been completed.";
+
+"<아우라> 이 아우라 의상은 다듬을 수 없습니다.";
+"<Aura> You cannot refine this aura costume.";
+
+"<아우라> 추가 단계는 업그레이드 창을 사용하십시오.";
+"<Aura> Use the upgrade window for further steps.";
+
+"<아우라> 오라 의상을 다듬을만큼 금이 부족합니다.";
+"<Aura> You don't have enough gold to refine your aura costume.";
+
+"<아우라> 아우라 의상을 다듬는 데 필요한 재료가 없습니다.";
+"<Aura> You don't have the needed materials to refine your aura costume.";
+
+"<아우라> 업그레이드에 성공했습니다.";
+"<Aura> Upgrading was successful.";
+
+"<아우라> 업그레이드하지 못했습니다.";
+"<Aura> Upgrading failed.";
+
+"<아우라> 당신의 영혼에 묶여 있기 때문에 당신의 아우라 의상에서 부스트를 지울 수 없습니다.";
+"<Aura> You cannot clear the boost from your aura costume because it is bound to you soul.";
+
+"<아우라> 오라 의상에는 부스트가 없습니다.";
+"<Aura> There is no boost in your aura costume.";
+
+"<아우라> 오라 부스터가 성공적으로 연결되었습니다.";
+"<Aura> Aura booster attached successfully.";
+
+"<아우라> 이 아이템에 오라 부스트를 추가 할 수 없습니다.";
+"<Aura> You cannot add aura boost to this item.";
+
+"<아우라> 오라 창이 열려있을 때까지 항목을 이동할 수 없습니다.";
+"<Aura> You cannot move items until the aura window is still opened.";
+
+<아우라> 업그레이드를 위해이 항목을 첨부 할 수 없습니다.
+<Aura> You cannot attach this item for upgrading.

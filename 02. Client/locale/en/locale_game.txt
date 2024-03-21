@@ -1,0 +1,32 @@
+AURA_BOOST_DRAIN_PER	Extra Absorption +%d%%
+AURA_DRAIN_PER	Absorption rate %.1f%%
+AURA_DRAIN_BOOST_PER	Absorption rate %.1f%% (+%d%%)
+AURA_EVOLUTION_GOLD	[Aura] Insufficient Yang to evolve.
+AURA_IMPOSSIBLE_ABSORBITEM	[Aura] No further bonuses can be applied.
+AURA_IMPOSSIBLE_EQUIPITEM	[Aura] Equipped items cannot be transmitted.
+AURA_IMPOSSIBLE_EVOLUTION_ITEM	[Aura] Cannot be evolved.
+AURA_IMPOSSIBLE_EVOLUTION_ITEMCOUNT	[Aura] Current number of items is not sufficient to evolve.
+AURA_IMPOSSIBLE_GROWTHITEM	[Aura] Cannot be improved.
+AURA_IMPOSSIBLE_GROWTHITEM2	[Aura] You need to attach the materials.
+AURA_IMPOSSIBLE_REFINEITEM	[Aura] Only Shield, Necklace, Earring and Armband can be used.
+AURA_IMPOSSIBLE_REFINEITEM2	[Aura] Only Aura Outfit, Shield, Necklace, Earring and Armband can be used.
+AURA_IMPOSSIBLE_SEALITEM	[Aura] Soulbound items cannot be transmitted.
+AURA_ITEM_NEED_REGISTER	[Aura] Items must be inserted.
+AURA_LEVEL_STEP	Lvl%d (Stage %d)
+AURA_MAX_LEVEL	[Aura] Aura Outfit has attained maximum level.
+AURA_NOTICE_DEL_ABSORDITEM	[Aura] Transmitted item will be destroyed.
+AURA_OPEN_OTHER_WINDOW	You cannot do this while the window for improvement, evolution or transferring stats is open.
+AURA_POSSIBLE_AURAITEM	[Aura] Only Aura Outfit can be used.
+AURA_POSSIBLE_AURARESOURCE	[Aura] Only Aura Ice Rune and Aura Fire Rune can be used.
+AURA_POSSIBLE_REGISTER_AURAITEM	[Aura] Aura Outfit must be inserted first.
+AURA_TITLE_ABSORB	Transmit values onto Aura Outfit
+AURA_TITLE_EVOLUTION	Evolve Aura Outfit
+AURA_TITLE_GROWTH	Improve Aura Outfit
+AURA_TOOLTIP_EVOLUTION_PER	Chance: %d%%
+AURA_TOOLTIP_EXP	EXP (%d%% / 100%%)
+AURA_TOOLTIP_LEVEL	Lvl%d (Stage %d) (Absorption rate %.1f%%)
+AURA_TOOLTIP_NEED_YANG	%s Yang
+AURA_TOOLTIP_NEXT	New
+AURA_TOOLTIP_NOW	Current
+AURA_TOOLTIP_RESOURCE	Consumables
+AURA_TOOLTIP_RESOURCE_ITEM	%s * %d

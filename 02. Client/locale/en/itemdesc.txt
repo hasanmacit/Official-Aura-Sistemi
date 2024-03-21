@@ -1,0 +1,35 @@
+49001	Ordinary Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be improved until level 49 and evolved from level 50 onwards.
+49002	Simple Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 99.
+49003	Noble Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 149.
+49004	Sparkling Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 199.
+49005	Magnificent Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 249.
+49006	Radiant Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit.
+49011	Ordinary Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be improved until level 49 and evolved from level 50 onwards.
+49012	Simple Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 99.
+49013	Noble Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 149.
+49014	Sparkling Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 199.
+49015	Magnificent Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 249.
+49016	Radiant Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit.
+49021	Ordinary Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be improved until level 49 and evolved from level 50 onwards.
+49022	Simple Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 99.
+49023	Noble Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 149.
+49024	Sparkling Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 199.
+49025	Magnificent Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 249.
+49026	Radiant Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit.
+49031	Ordinary Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be improved until level 49 and evolved from level 50 onwards.
+49032	Simple Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 99.
+49033	Noble Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 149.
+49034	Sparkling Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 199.
+49035	Magnificent Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit. You can improve the Aura Outfit with Aura Ice Runes. It can be evolved from level 249.
+49036	Radiant Aura Outfit	You can transmit values of accessories with a set absorption rate onto the Aura Outfit.
+49980	Aura Eraser	Removes the booster from your Aura Outfit.
+49981	Aura Booster (small)	Raises the value of your absorption rate in your Aura Outfit with 1% for 1 Day long. The time of the boost expires during equipped.
+49982	Aura Booster (medium)	Raises the value of your absorption rate in your Aura Outfit with 2% for 3 Day long. The time of the boost expires during equipped.
+49983	Aura Booster (big)	Raises the value of your absorption rate in your Aura Outfit with 3% for 5 Day long. The time of the boost expires during equipped.
+49984	Aura Booster (super)	Raises the value of your absorption rate in your Aura Outfit with 5%.
+49990	Aura Ice Rune	Material, that is required to improve your Aura Outfit. Go to Theowahdan to improve your Aura Outfit.
+49991	Aura Fire Rune (10)	Material, that is required to improve your Aura Outfit. Go to Theowahdan to improve your Aura Outfit.
+49992	Aura Fire Rune (50)	Material, that is required to improve your Aura Outfit. Go to Theowahdan to improve your Aura Outfit.
+49993	Aura Fire Rune (100)	Material, that is required to improve your Aura Outfit. Go to Theowahdan to improve your Aura Outfit.
+49994	Aura Fire Rune (250)	Material, that is required to improve your Aura Outfit. Go to Theowahdan to improve your Aura Outfit.
+49995	Aura Fire Rune (500)	Material, that is required to improve your Aura Outfit. Go to Theowahdan to improve your Aura Outfit.

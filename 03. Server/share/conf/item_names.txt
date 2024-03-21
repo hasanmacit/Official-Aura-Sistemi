@@ -1,0 +1,35 @@
+49001	Ordinary Aura Outfit
+49002	Simple Aura Outfit
+49003	Noble Aura Outfit
+49004	Sparkling Aura Outfit
+49005	Magnificent Aura Outfit
+49006	Radiant Aura Outfit
+49011	Ordinary Aura Outfit
+49012	Simple Aura Outfit
+49013	Noble Aura Outfit
+49014	Sparkling Aura Outfit
+49015	Magnificent Aura Outfit
+49016	Radiant Aura Outfit
+49021	Ordinary Aura Outfit
+49022	Simple Aura Outfit
+49023	Noble Aura Outfit
+49024	Sparkling Aura Outfit
+49025	Magnificent Aura Outfit
+49026	Radiant Aura Outfit
+49031	Ordinary Aura Outfit
+49032	Simple Aura Outfit
+49033	Noble Aura Outfit
+49034	Sparkling Aura Outfit
+49035	Magnificent Aura Outfit
+49036	Radiant Aura Outfit
+49980	Aura Eraser
+49981	Aura Booster (small)
+49982	Aura Booster (medium)
+49983	Aura Booster (big)
+49984	Aura Booster (special)
+49990	Aura Ice Rune
+49991	Aura Fire Rune (10)
+49992	Aura Fire Rune (50)
+49993	Aura Fire Rune (100)
+49994	Aura Fire Rune (250)
+49995	Aura Fire Rune (500)

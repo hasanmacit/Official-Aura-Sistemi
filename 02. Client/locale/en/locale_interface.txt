@@ -1,0 +1,2 @@
+AURA_MAIN	Aura Outfit
+AURA_SUB	Material
